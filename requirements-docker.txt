@@ -1,0 +1,5 @@
+ultralytics==8.4.138
+gradio==6.30.0
+numpy
+pillow
+opencv-python

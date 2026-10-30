@@ -1,0 +1,8 @@
+runs
+test
+.git
+__pycache__
+*.pyc
+_da2_tmp
+stair_env
+*.zip
